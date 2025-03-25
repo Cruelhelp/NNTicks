@@ -126,6 +126,13 @@ or enter the details in `Settings > WebSocket`.
 | `model.pkl`       | Auto-saved trained model                         |
 | `screenshots/`    | Folder for UI preview images                     |
 | `requirements.txt`| Python dependencies list                         |
+| `DEVLOG.md`       | Project development log                          |
+
+---
+
+## 📓 Development Log
+
+See detailed progress, ongoing features, and upcoming goals in the [DEVLOG.md](DEVLOG.md).
 
 ---
 
