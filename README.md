@@ -1,6 +1,15 @@
 # 🧠 NNTicks
 
+![Project Status](https://img.shields.io/badge/status-in--development-yellow)
+
 **NNTicks** is a desktop neural-network-based tick predictor built in Python. It’s designed for binary tick trading and supports real-time predictions, neural network training, backtesting, and live visualization — all within a sleek PyQt6 interface.
+
+---
+
+## 🚧 Project Status
+
+This project is currently in **active development**.  
+Features, structure, and UI may change. Contributions and feedback are welcome!
 
 ---
 
@@ -101,8 +110,8 @@
    python gui.py
    ```
 
-> Make sure your API key and WebSocket URL are correctly set in `config.py`.
-or enter details in settings\websocket.
+> Make sure your API key and WebSocket URL are correctly set in `config.py`  
+or enter the details in `Settings > WebSocket`.
 
 ---
 
