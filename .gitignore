@@ -1,0 +1,21 @@
+# 🧠 Ignore model & training files
+*.pkl
+
+# 📄 Ignore reports and exported documents
+*.pdf
+
+# 🧾 Ignore logs
+*.log
+
+# ⚙️ Ignore runtime session files
+session.json
+
+# 🐍 Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 💻 OS-specific files
+.DS_Store
+Thumbs.db
