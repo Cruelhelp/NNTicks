@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="assets/nnticks_logo.png" alt="NNTicks Logo" width="200"/>
+</p>
+
+
+
+
 # 🧠 NNTicks
 
 ![Project Status](https://img.shields.io/badge/status-in--development-yellow)

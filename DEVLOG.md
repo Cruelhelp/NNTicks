@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/nnticks_logo.png" alt="NNTicks Logo" width="100"/>
+</p>
+
+
+
 # 📓 NNTicks Development Log
 
 Welcome to the official development log for **NNTicks** — a neural-network-powered tick prediction desktop app. This document tracks feature progress, improvements, known issues, and development goals.
